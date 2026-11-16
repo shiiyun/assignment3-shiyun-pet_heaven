@@ -166,7 +166,7 @@ const Home = () => {
               <div className="home-step-icon">🏡</div>
               <span className="home-step-number">03</span>
               <h3>Welcome Them Home</h3>
-              <p>Once approved, prepare to welcomeyour new furry family member.</p>
+              <p>Once approved, prepare to welcome your new furry family member.</p>
             </div>
 
           </div>
